@@ -1,5 +1,7 @@
-<h1>👋 Hi, I'm <span style="color:blue">Muntasir Mahmud</span></h1>
+<h1>Hi there, I'm Muntasir Mahmud</h1>
 <h3>A passionate Frontend Developer from Bangladesh</h3>
+
+<h3>Glad to see you here!</h3>
 
 <ul>
   <li>💼 Currently working as <strong>Senior IT Coordinator</strong> at <strong>GTRSystem</strong></li>
