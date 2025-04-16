@@ -1,4 +1,44 @@
-<h1>Hi there, I'm <span style="color:blue">Muntasir Mahmud</span></h1>
+<h1>✈️ B2C OTA Frontend</h1>
+
+<p>
+  A high-performance flight and hotel booking interface built with 
+  <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>. 
+  This project focuses on clean UI/UX, SSR optimization, and seamless API integration—designed for travel platforms with scalability in mind.
+</p>
+
+<h2>🚀 Features</h2>
+<ul>
+  <li>🔍 Flight & hotel search with dynamic filtering</li>
+  <li>🧳 Booking form with validation and responsive design</li>
+  <li>⚡ Server-Side Rendering (SSR) for better performance and SEO</li>
+  <li>💤 Lazy loading for fast initial load time</li>
+  <li>💾 API data caching using <strong>React Query</strong></li>
+  <li>📱 Fully responsive across all devices</li>
+  <li>♿ Accessible and keyboard-friendly UI</li>
+</ul>
+
+<h2>🛠️ Tech Stack</h2>
+<ul>
+  <li><strong>Framework</strong>: Next.js, React.js</li>
+  <li><strong>Language</strong>: TypeScript</li>
+  <li><strong>Styling</strong>: Tailwind CSS</li>
+  <li><strong>State Management</strong>: Zustand, React Query</li>
+  <li><strong>API Handling</strong>: Axios</li>
+  <li><strong>Build Tools</strong>: Vercel, Git</li>
+</ul>
+
+<h2>📸 Screenshots</h2>
+<p>Add screenshots in a <code>screenshots/</code> folder and reference them below:</p>
+
+<p>
+  <img src="./screenshots/flight-search.png" alt="Flight Search Page" width="600"/>
+</p>
+<p>
+  <img src="./screenshots/hotel-booking.png" alt="Hotel Booking UI" width="600"/>
+</p>
+
+
+<h1>Hi there, I'm Muntasir Mahmud</h1>
 <h3>A passionate frontend developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **React**
