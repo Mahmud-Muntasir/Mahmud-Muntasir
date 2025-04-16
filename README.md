@@ -1,41 +1,60 @@
-<h1>✈️ B2C OTA Frontend</h1>
+<h1>👋 Hi, I'm <span style="color:blue">Muntasir Mahmud</span></h1>
+<h3>A passionate Frontend Developer from Bangladesh</h3>
 
+<ul>
+  <li>💼 Currently working as <strong>Senior IT Coordinator</strong> at <strong>GTRSystem</strong></li>
+  <li>🛠️ Specializing in <strong>Next.js, React.js, TypeScript, Tailwind CSS</strong></li>
+  <li>🌱 Learning React Native and backend architecture with Node.js</li>
+  <li>📫 Reach me: <a href="mailto:muntasirr.mahmudd@gmail.com">muntasirr.mahmudd@gmail.com</a></li>
+  <li>🌐 Portfolio (Coming Soon!)</li>
+</ul>
+
+<hr />
+
+<h2>🚀 Featured Project</h2>
+
+<h3><a href="https://github.com/Mahmud-Muntasir/b2c-ota-frontend" target="_blank">✈️ B2C OTA Frontend</a></h3>
 <p>
   A high-performance flight and hotel booking interface built with 
   <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>. 
-  This project focuses on clean UI/UX, SSR optimization, and seamless API integration—designed for travel platforms with scalability in mind.
+  Focused on SSR, smooth API integration, responsive UI, and accessibility — built for modern travel platforms.
 </p>
 
-<h2>🚀 Features</h2>
 <ul>
   <li>🔍 Flight & hotel search with dynamic filtering</li>
-  <li>🧳 Booking form with validation and responsive design</li>
-  <li>⚡ Server-Side Rendering (SSR) for better performance and SEO</li>
-  <li>💤 Lazy loading for fast initial load time</li>
-  <li>💾 API data caching using <strong>React Query</strong></li>
-  <li>📱 Fully responsive across all devices</li>
-  <li>♿ Accessible and keyboard-friendly UI</li>
+  <li>⚡ SSR & Lazy Loading for fast SEO-optimized pages</li>
+  <li>📱 Mobile responsive and accessible design</li>
 </ul>
 
-<h2>🛠️ Tech Stack</h2>
-<ul>
-  <li><strong>Framework</strong>: Next.js, React.js</li>
-  <li><strong>Language</strong>: TypeScript</li>
-  <li><strong>Styling</strong>: Tailwind CSS</li>
-  <li><strong>State Management</strong>: Zustand, React Query</li>
-  <li><strong>API Handling</strong>: Axios</li>
-  <li><strong>Build Tools</strong>: Vercel, Git</li>
-</ul>
-
-<h2>📸 Screenshots</h2>
-<p>Add screenshots in a <code>screenshots/</code> folder and reference them below:</p>
-
 <p>
-  <img src="./screenshots/flight-search.png" alt="Flight Search Page" width="600"/>
+  🔗 <a href="https://github.com/Mahmud-Muntasir/b2c-ota-frontend" target="_blank">View on GitHub</a>
+</p>
+
+<hr />
+
+<h2>🧰 Languages & Tools</h2>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
+
+<hr />
+
+<h2>📈 GitHub Stats</h2>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmud-Muntasir&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
 <p>
-  <img src="./screenshots/hotel-booking.png" alt="Hotel Booking UI" width="600"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahmud-Muntasir&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+
 
 
 <h1>Hi there, I'm Muntasir Mahmud</h1>
