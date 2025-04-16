@@ -1,79 +1,72 @@
 <h1>Hi there, I'm Muntasir Mahmud</h1>
-<h3>A passionate Frontend Developer from Bangladesh</h3>
-
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/muntasir-mahmud-151252216" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/muntasir-mahmud-151252216"/></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/muntasir-mahmud-151252216" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="www.linkedin.com/in/muntasir-mahmud-151252216"/></a>
+    <a href="mailto:muntasirr.mahmudd@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="www.linkedin.com/in/muntasir-mahmud-151252216"/></a>
+     <a href="https://example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="www.linkedin.com/in/muntasir-mahmud-151252216"/></a> 
+</p>
+</br>
 <h3>Glad to see you here!</h3>
+<p>Frontend Developer with <strong>2+ years</strong> of experience specializing in building performant, 
+scalable UI using <strong>Next.js</strong>, <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>. Proven track record 
+delivering <strong>B2C OTA</strong>, <strong>eCommerce</strong>, and <strong>CMS platforms</strong> with <strong>SSR</strong>, <strong>lazy loading</strong>, and 
+strong <strong>UI/UX</strong> design principles.</p>
+</br>
 
+<h3>Talking about Personal Stuffs</h3>
 <ul>
   <li>💼 Currently working as <strong>Senior IT Coordinator</strong> at <strong>GTRSystem</strong></li>
-  <li>🛠️ Specializing in <strong>Next.js, React.js, TypeScript, Tailwind CSS</strong></li>
-  <li>🌱 Learning React Native and backend architecture with Node.js</li>
-  <li>📫 Reach me: <a href="mailto:muntasirr.mahmudd@gmail.com">muntasirr.mahmudd@gmail.com</a></li>
-  <li>🌐 Portfolio (Coming Soon!)</li>
+  <li>🌱 I am currently learning Backend Development with Node.js, MongoDB, mySQL</li>
+  <li>🌱 Ask me about anything, I am happy to help</li>
+  <li>📫 Reach me <a href="mailto:muntasirr.mahmudd@gmail.com">muntasirr.mahmudd@gmail.com</a></li>
+  <li>🌐 <a href="mailto:muntasirr.mahmudd@gmail.com">Resume (Coming Soon!)</a></li>
+  <li>🌐 <a href="mailto:muntasirr.mahmudd@gmail.com">Portfolio (Coming Soon!)</a></li>
 </ul>
-
-<hr />
-
-<h2>🚀 Featured Project</h2>
-
-<h3><a href="https://github.com/Mahmud-Muntasir/b2c-ota-frontend" target="_blank">✈️ B2C OTA Frontend</a></h3>
-<p>
-  A high-performance flight and hotel booking interface built with 
-  <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>. 
-  Focused on SSR, smooth API integration, responsive UI, and accessibility — built for modern travel platforms.
-</p>
-
+</br>
+<h2>Skills</h2>
 <ul>
-  <li>🔍 Flight & hotel search with dynamic filtering</li>
-  <li>⚡ SSR & Lazy Loading for fast SEO-optimized pages</li>
-  <li>📱 Mobile responsive and accessible design</li>
+  <li><strong>Languages & Frameworks:</strong> Next.js, React.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS</li>
+  <li><strong>State Management:</strong> Zustand, React Query</li>
+  <li><strong>Performance Optimization:</strong> Server-side Rendering (SSR), Lazy Loading, API Caching</li>
+  <li><strong>UI/UX Design:</strong> Server-side Rendering (SSR), Lazy Loading, API Caching</li>
+  <li><strong>API Integration:</strong> RESTful APIs, Fetch/Axios</li>
+  <li><strong>Version Control & Tools:</strong> Git, VS Code, Postman</li>
 </ul>
-
+</br>
+<h2>Featured Project</h2>
+<h3>B2C OTA Frontend</h3>
 <p>
-  🔗 <a href="https://github.com/Mahmud-Muntasir/b2c-ota-frontend" target="_blank">View on GitHub</a>
+A high-performance flight and hotel booking interface built with <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>. 
+Optimized for speed, SEO, and accessibility, this frontend is tailored for online travel platforms.
 </p>
-
-<hr />
-
-<h2>🧰 Languages & Tools</h2>
+<ul>
+  <li>Dynamic flight & hotel search with filters</li>
+  <li>Server-Side Rendering (SSR) and lazy loading for performance</li>
+  <li>API caching via React Query</li>
+  <li>Fully responsive and keyboard-accessible</li>
+</ul>
+<p>🔗 <a href="https://github.com/Mahmud-Muntasir/b2c-ota-frontend" target="_blank">View Projects Demo</a></p>
+<h2></h2>
+<h3>Full-Stack eCommerce Platform</h3>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+A modern eCommerce web app built with <strong>Next.js</strong> and <strong>Node.js</strong>. Includes product management, cart, authentication, and Stripe payments.
 </p>
-
-<hr />
-
-<h2>📈 GitHub Stats</h2>
+<ul>
+  <li>Product listings, search, and cart functionality</li>
+  <li>Auth with JWT and role-based access</li>
+  <li>Payment integration with Stripe</li>
+  <li>Scalable full-stack architecture</li>
+</ul>
+<p>🔗 <a href="https://github.com/Mahmud-Muntasir/ecommerce-platform" target="_blank">View Projects Demo</a></p>
+<h2></h2>
+<h3>Landing Website & CMS</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmud-Muntasir&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+A responsive landing site with built-in blog, authentication, and content management dashboard. Built using <strong>Next.js</strong>, <strong>Zustand</strong>, and <strong>MongoDB</strong>.
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahmud-Muntasir&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-
-
-<h1>Hi there, I'm Muntasir Mahmud</h1>
-<h3>A passionate frontend developer from Bangladesh</h3>
-
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **Js, Ts, React, Next Js, React Native**
-
-- 📫 How to reach me **muntasirr.mahmudd@gmail.com**
-
-- ⚡ Fun fact **I love exploring and learning new things**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muntasir-mahmud-151252216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muntasir-mahmud-151252216" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<ul>
+  <li>Admin dashboard for managing content</li>
+  <li>Login system using JWT</li>
+  <li>Contact form and dynamic blog posts</li>
+  <li>Built for performance and mobile usability</li>
+</ul>
+<p>🔗 <a href="https://github.com/Mahmud-Muntasir/landing-cms" target="_blank">View Projects Demo</a></p>
