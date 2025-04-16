@@ -1,4 +1,4 @@
-<h1>Hi there, I'm <span styles={"color:blue"}>Muntasir Mahmud</span></h1>
+<h1>Hi there, I'm <span style="color:blue">Muntasir Mahmud</span></h1>
 <h3>A passionate frontend developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **React**
