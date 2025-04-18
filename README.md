@@ -19,8 +19,8 @@ strong <strong>UI/UX</strong> design principles.</p>
   <li>🌱 Learning Backend Development with Node.js, MongoDB, mySQL</li>
   <li>💬 Ask me about frontend, OTA platforms, or web performance—I’m happy to help!</li>
   <li>📫 Reach me at <a href="mailto:muntasirr.mahmudd@gmail.com">muntasirr.mahmudd@gmail.com</a></li>
-  <li>🌐 <a href="mailto:muntasirr.mahmudd@gmail.com">Resume (Coming Soon!)</a></li>
-  <li>🌐 <a href="mailto:muntasirr.mahmudd@gmail.com">Portfolio (Coming Soon!)</a></li>
+  <li>🌐 <a href="https://muntasirr.vercel.app/cv.pdf">Resume</a></li>
+  <li>🌐 <a href="https://muntasirr.vercel.app/">Portfolio</a></li>
 </ul>
 </br>
 <h2>Skills</h2>
