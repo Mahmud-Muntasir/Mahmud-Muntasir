@@ -45,7 +45,7 @@ Optimized for speed, SEO, and accessibility, this frontend is tailored for onlin
   <li>💾 API caching via React Query</li>
   <li>📱 Fully responsive and keyboard-accessible</li>
 </ul>
-<p>🔗 <a href="https://github.com/Mahmud-Muntasir/b2c-ota-frontend" target="_blank">View Projects Demo</a></p>
+<p>🔗 <a href="https://muntasirr.vercel.app/works/b2c-ota-frontend" target="_blank">View Projects Demo</a></p>
 <h2></h2>
 <h3>🛍️ Full-Stack eCommerce Platform</h3>
 <p>
@@ -57,7 +57,7 @@ A modern eCommerce web app built with <strong>Next.js</strong> and <strong>Node.
   <li>💳 Payment integration with Stripe</li>
   <li>🧱 Scalable full-stack architecture</li>
 </ul>
-<p>🔗 <a href="https://github.com/Mahmud-Muntasir/ecommerce-platform" target="_blank">View Projects Demo</a></p>
+<p>🔗 <a href="https://muntasirr.vercel.app/works/fullstack-ecommerce" target="_blank">View Projects Demo</a></p>
 <h2></h2>
 <h3>🌐 Landing Website & CMS</h3>
 <p>
@@ -69,7 +69,7 @@ A responsive landing site with built-in blog, authentication, and content manage
   <li>📬 Contact form and dynamic blog posts</li>
   <li>🎯 Built for performance and mobile usability</li>
 </ul>
-<p>🔗 <a href="https://github.com/Mahmud-Muntasir/landing-cms" target="_blank">View Projects Demo</a></p>
+<p>🔗 <a href="https://muntasirr.vercel.app/works/landing-site-cms" target="_blank">View Projects Demo</a></p>
 </br>
 </br>
 
