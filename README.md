@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Muntasir Mahmud 👋</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muntasir-mahmud-151252216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+  <a href="https://linkedin.com/in/mahmud-muntasir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
   <a href="https://linkedin.com/in/muntasir-mahmud-151252216" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:muntasirr.mahmudd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/Mahmud-Muntasir" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a>
+  <a href="https://github.com/mahmud-muntasir" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a>
 </p>
 </br>
 <h3>Glad to see you here!</h3>
