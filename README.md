@@ -30,7 +30,7 @@ strong <strong>UI/UX</strong> design principles.</p>
   <li><strong>Performance Optimization:</strong> Server-side Rendering (SSR), Lazy Loading, API Caching</li>
   <li><strong>UI/UX Design:</strong> Server-side Rendering (SSR), Lazy Loading, API Caching</li>
   <li><strong>API Integration:</strong> RESTful APIs, Fetch/Axios</li>
-  <li><strong>Version Control & Tools:</strong> <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Next js"/> <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Next js"/> <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Next js"/></li>
+  <li><strong>Tools:</strong> <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Next js"/> <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Next js"/> <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Next js"/> <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Next js"/></li>
 </ul>
 </br>
 <h2>Featured Project</h2>
