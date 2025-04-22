@@ -8,10 +8,7 @@
 </p>
 </br>
 <h3>Glad to see you here!</h3>
-<p>Frontend Developer with <strong>2+ years</strong> of experience specializing in building performant, 
-scalable UI using <strong>Next.js</strong>, <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>. Proven track record 
-delivering <strong>B2C OTA</strong>, <strong>eCommerce</strong>, and <strong>CMS platforms</strong> with <strong>SSR</strong>, <strong>lazy loading</strong>, and 
-strong <strong>UI/UX</strong> design principles.</p>
+<p>Frontend Engineer with 2+ years of experience building performant, scalable web applications using Next.js, React, TypeScript, and Tailwind CSS. Proven track record in delivering B2C OTA and eCommerce platforms optimized for speed, usability, and scalability. </p>
 </br>
 <!-- <h2>Talking about Personal Stuffs</h2> -->
 <ul>
@@ -29,7 +26,8 @@ strong <strong>UI/UX</strong> design principles.</p>
   <li><strong>State Management:</strong> Zustand, React Query</li>
   <li><strong>Performance Optimization:</strong> Server-side Rendering (SSR), Lazy Loading, API Caching</li>
   <li><strong>UI/UX Design:</strong> Server-side Rendering (SSR), Lazy Loading, API Caching</li>
-  <li><strong>API Integration:</strong> RESTful APIs, Fetch/Axios</li>
+  <li><strong>API Integration:</strong> RESTful APIs (Fetch, Axios)</li>
+  <li><strong>Third-Party Services:</strong> Stripe, Google Maps</li>
   <li><strong>Tools:</strong> <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Next js"/> <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Next js"/> <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Next js"/> <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Next js"/></li>
 </ul>
 </br>
@@ -40,22 +38,20 @@ A high-performance flight and hotel booking interface built with <strong>Next.js
 Optimized for speed, SEO, and accessibility, this frontend is tailored for online travel platforms.
 </p>
 <ul>
-   <li>🔍 Dynamic flight & hotel search with filters</li>
-  <li>⚡ Server-Side Rendering (SSR) and lazy loading for performance</li>
-  <li>💾 API caching via React Query</li>
-  <li>📱 Fully responsive and keyboard-accessible</li>
+   <li>Designed and developed responsive flight & hotel frontend with accessible dynamic layouts.</li>
+  <li>Implemented SSR to boost load speed and SEO, ensuring a seamless user experience.</li>
+  <li>Integrated Google Maps API for displaying hotel locations with filters and interactions.</li>
+  <li>Implemented Stripe for seamless and secure payment flows.</li>
 </ul>
 <p>🔗 <a href="https://muntasirr.vercel.app/works/b2c-ota-frontend" target="_blank">View Projects Demo</a></p>
 <h2></h2>
 <h3>🛍️ Full-Stack eCommerce Platform</h3>
 <p>
-A modern eCommerce web app built with <strong>Next.js</strong> and <strong>Node.js</strong>. Includes product management, cart, authentication, and Stripe payments.
+A modern eCommerce web app built with <strong>Next.js</strong> and <strong>Node.js</strong>. Includes product management, cart, authentication.
 </p>
 <ul>
-  <li>🛒 Product listings, search, and cart functionality</li>
-  <li>🔐 Auth with JWT and role-based access</li>
-  <li>💳 Payment integration with Stripe</li>
-  <li>🧱 Scalable full-stack architecture</li>
+  <li>Designed and developed a scalable storefront with cart and payment flow.</li>
+  <li>Prioritized performance and modern UI/UX best practices.</li>
 </ul>
 <p>🔗 <a href="https://muntasirr.vercel.app/works/fullstack-ecommerce" target="_blank">View Projects Demo</a></p>
 <h2></h2>
@@ -64,10 +60,8 @@ A modern eCommerce web app built with <strong>Next.js</strong> and <strong>Node.
 A responsive landing site with built-in blog, authentication, and content management dashboard. Built using <strong>Next.js</strong>, <strong>Zustand</strong>, and <strong>MongoDB</strong>.
 </p>
 <ul>
-  <li>📝 Admin dashboard for managing content</li>
-  <li>🔐 Login system using JWT</li>
-  <li>📬 Contact form and dynamic blog posts</li>
-  <li>🎯 Built for performance and mobile usability</li>
+  <li>Designed and built a landing page with blog, auth, and contact features.</li>
+  <li>Integrated a content management dashboard for admin use.</li>
 </ul>
 <p>🔗 <a href="https://muntasirr.vercel.app/works/landing-site-cms" target="_blank">View Projects Demo</a></p>
 </br>
