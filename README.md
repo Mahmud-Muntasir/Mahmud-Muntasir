@@ -15,7 +15,7 @@ strong <strong>UI/UX</strong> design principles.</p>
 </br>
 <!-- <h2>Talking about Personal Stuffs</h2> -->
 <ul>
-  <li>💼 Currently working as <strong>Senior IT Coordinator</strong> at <strong>GTRSystem</strong></li>
+  <li>💼 Currently working as <strong>Frontend Engineer</strong> at <strong>GTRSystem</strong></li>
   <li>🌱 Learning Backend Development with Node.js, MongoDB, mySQL</li>
   <li>💬 Ask me about frontend, OTA platforms, or web performance—I’m happy to help!</li>
   <li>📫 Reach me at <a href="mailto:muntasirr.mahmudd@gmail.com">muntasirr.mahmudd@gmail.com</a></li>
